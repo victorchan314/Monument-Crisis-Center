@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<generator>Easy Feed Editor</generator>
+<title>Monument Crisis Center</title>
+<description>This is the RSS feed for Monument Crisis Center. Any updates, news, and upcoming events and classes will be posted here.</description>
+<link>http://www.monumentcrisiscenter.org/</link>
+<image><url>http://monumentcrisiscenter.org/wp-content/uploads/2012/05/logo-sized.png</url><title>Monument Crisis Center</title><link>http://www.monumentcrisiscenter.org/</link></image>
+<language>en-us</language>
+<pubDate>Sun, 24 Jul 2016 02:16:51 GMT</pubDate>
+
+<item>
+<title>Shorttitle</title>
+<description><![CDATA[
+<p>Self Explanatory Title</p>
+]]></description>
+<guid  isPermaLink="false">e16feff1-f2a7-488e-8337-958909a1d5f1</guid>
+<pubDate>Wed, 27 Jul 2016 20:06:50 GMT</pubDate>
+</item>
+
+<item>
+<title>Spanish support for mobile app!</title>
+<description><![CDATA[<p>
+<p>
+Monumento Centro de Crisis tiene ahora una nueva aplicación móvil! Como se puede ver, se trata de todo un párrafo escrito en español, y no meter la pata de la aplicación. Mientras usted puede leer esto perfectamente bien, no habrá ningún problema - obras españolas muy bien en la aplicación. Sé el apoyo español es una necesidad definida para esto (estoy incluyendo la redundancia por si acaso), por lo que vamos a poner a buen uso!
+</p>
+]]></description>
+<guid  isPermaLink="false">e16feff1-f2a7-488e-8337-958909a1d5f1</guid>
+<pubDate>Wed, 27 Jul 2016 19:06:50 GMT</pubDate>
+</item>
+
+<item>
+<title>MCC Website Link</title>
+<description><![CDATA[<p>
+<p>
+    <a href="http://www.monumentcrisiscenter.org/">Does this link lead to our website?</a></p>
+]]></description>
+<guid  isPermaLink="false">e16feff1-f2a7-488e-8337-958909a1d5f1</guid>
+<pubDate>Sun, 24 Jul 2016 02:13:38 GMT</pubDate>
+</item>
+
+<item>
+<title>Test Out The Features!</title>
+<description><![CDATA[<p>
+    <strong>Is this text bold?</strong></p>
+<p>
+    <em>Is this text italicized?</em></p>
+<p>
+    <u>Is this text underlined?</u></p>
+<table border="1" cellpadding="1" cellspacing="1" style="height: 152px; width: 300px;">
+    <tbody>
+   	 <tr>
+   		 <td>
+   			 This</td>
+   		 <td>
+   			 is</td>
+   		 <td>
+   			 a</td>
+   		 <td>
+   			 table.</td>
+   	 </tr>
+   	 <tr>
+   		 <td>
+   			 There are</td>
+   		 <td>
+   			 4 columns</td>
+   		 <td>
+   			 and</td>
+   		 <td>
+   			 4 rows.</td>
+   	 </tr>
+   	 <tr>
+   		 <td>
+   			 The table</td>
+   		 <td>
+   			 can have</td>
+   		 <td>
+   			 custom</td>
+   		 <td>
+   			 size.</td>
+   	 </tr>
+   	 <tr>
+   		 <td>
+   			 &nbsp;</td>
+   		 <td>
+   			 &nbsp;</td>
+   		 <td>
+   			 &nbsp;</td>
+   		 <td>
+   			 One lone cell.</td>
+   	 </tr>
+    </tbody>
+</table>
+<p>
+    <span style="font-size: 16px;"><span style="font-family: comic sans ms,cursive;">Is this text big Comic Sans Ms?</span></span></p>
+]]></description>
+<guid  isPermaLink="false">a774d55b-7857-4f5f-9ab7-ca4eb5cad267</guid>
+<pubDate>Sun, 24 Jul 2016 02:16:39 GMT</pubDate>
+</item>
+
+<item>
+<title>Mobile App Now Available for Android!</title>
+<description><![CDATA[<p>
+    Hello! Our mobile application is now also available for Android!</p>
+<p>
+    <img alt="" src="http://core0.staticworld.net/images/article/2015/12/best-android-phones-nexus-6p-100631249-large.idge.jpg" style="width: 300px; height: 207px;" /></p>
+<p>
+    Check it out! This is awesome!</p>
+]]></description>
+<guid  isPermaLink="false">e16feff1-f2a7-488e-8337-958909a1d5f1</guid>
+<pubDate>Sun, 24 Jul 2016 02:13:38 GMT</pubDate>
+</item>
+
+<item>
+<title>New MCC App!</title>
+<description><![CDATA[<p>
+    Hi there! This is the new mobile application for Monument Crisis Center!</p>
+]]></description>
+<guid  isPermaLink="false">103be4e0-e191-4e4c-8741-e2c1122fe100</guid>
+<pubDate>Sun, 24 Jul 2016 02:11:04 GMT</pubDate>
+</item>
+</channel>
+</rss>

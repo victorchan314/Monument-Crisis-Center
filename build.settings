@@ -1,0 +1,25 @@
+settings =
+{
+	orientation =
+	{
+		default = "portrait",
+		supported =
+		{
+			"portrait", "portraitUpsideDown",
+		},
+	},
+	android =
+	{
+		usesPermissions = 
+		{
+			"android.permission.INTERNET",
+		},
+	},
+	iphone =
+	{
+		plist =
+		{
+			NSLocationWhenInUseUsageDescription = "This app uses maps.",
+		},
+	},
+}
